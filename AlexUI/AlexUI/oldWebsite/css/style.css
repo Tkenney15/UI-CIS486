@@ -1,0 +1,17 @@
+#jumboHeader{
+  text-align:center;
+}
+.row{
+  background-color:black;
+}
+.caption{
+	  display: flex;
+  align-items: center;
+  justify-content: center;
+	
+}
+
+.thumbnail{
+	background-color:darkblue;
+}
+
